@@ -2,7 +2,7 @@
 
 Bài tập lớn Kĩ thuật Vi xử lí – Đề tài RUOI-1
 
-**Thành viên:** Nguyễn Trung Thành (20233648), Bùi Thế Vinh (20239677)
+**Thành viên:** Nguyễn Trung Thành (20233648), Bùi Thế Vinh (2023)
 
 ## Giới thiệu
 Đo điện áp, dòng điện, công suất của pin 18650 qua cảm biến INA219 (giao tiếp I2C),
